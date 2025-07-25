@@ -15,7 +15,7 @@ and type some message in each terminal...
 
 ## Demo
 
-<video src="./assets/screen_record.mov" controls="true" width="100%"></video>
+<video src="https://github.com/kekeho/bracha-rbc/raw/refs/heads/main/assets/screen_record.mov" controls="true" width="100%"></video>
 
 
 ## What is Bracha's RBC?
